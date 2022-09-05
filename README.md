@@ -6,19 +6,19 @@
 ## **Fitur Pada GitHub** :rocket:
 
 ### :bear: ***Respository*** 
-#### *Respository* dapat dibilang sebagai folder suatu file dimana isinya berupa file project ataupun riwayat dari revisian file tersebut. Di respository kita juga dapat menginvite orang lain untuk bekerja sama dalam pembuatan project tersebut. Selain itu, kita dapat menambahkan README dimana README ini digunakan untuk memberi tau orang lain mengapa project ini berguna, apa yang dapat kamu lakukan dengan project ini, dan bagaimana cara mereka dapat menggunakan ini. 
+#### *Respository* dapat dibilang sebagai folder suatu file dimana isinya berupa file project ataupun riwayat dari revisian file tersebut. Di respository kita dapat menginvite orang lain untuk bekerja sama dalam pembuatan project tersebut. Selain itu, kita dapat menambahkan README dimana README ini digunakan untuk memberi tau apa yang dapat kamu lakukan dengan project ini. README ini dalam bentuk markdown file sehingga kita dapat menulis syntax disini. 
 
 ### :koala: ***Cloning***
 #### *Cloning* digunakan untuk mengcopy file di folder local computer kita, kemudian menggunakan git untuk mengsinkronisasi keduanya. Ini memudahkan kita untuk menambah atau meremove file. Jika respository tersebut dicloning maka semua data akan tersimpan, termasuk semua versi file dan folder yang belum direvisi.
 
 ### :cat: ***Commiting and Pushing***
-#### *Commiting dan pushing* digunakan untuk menambahkan perubahan yang dibuat di local kita ke respository di github. Melalui ini, penilai maupun teammates dapat melihat pekerjaan terakhir kita. Kita dapat menambahkan beberapa commit ke respository, lalu menggunakan push command untuk menambahkannya.
+#### *Commiting dan pushing* digunakan untuk menambahkan perubahan yang dibuat di local kita ke respository di github. Melalui ini, penilai maupun teammates dapat melihat pekerjaan terakhir kita. Kita dapat menambahkan beberapa commit ke respository, lalu menggunakan push command untuk menambahkannya. Untuk menambahkan fitur ini kita butuh git bash.
 
 ### :lion: ***Branches***
 #### *Branch* pada github digunakan untuk memisahkan file yang belum ingin digabungkan dengan final project. Branch memungkinkan kita untuk mengembangkan fitur, memperbaiki bug, ataupun bereksperimen dengan ide yang masih berada di area respository kita. Kita dapat menggabungkan perubahan yang baru ke default branch respository.
 
 ### :fox_face: ***Forks***
-#### *Fork* digunakan untuk mengcopy respository, tetapi biasanya digunakan ketika berkontribusi dengan project orang lain. Fitur ini membuat kita bebas bereksperimen tanpa perlu takut mengubah original file nya.
+#### *Fork* digunakan untuk mengcopy respository, tetapi biasanya digunakan ketika melakukan project bersama orang lain. Fitur ini membuat kita bebas bereksperimen tanpa perlu takut mengubah original file nya.
 
 ### :raccoon: ***Pull requests***
 #### *Pull request* digunakan untuk memberi tahu orang lain terkait perubahan yang ingin dilakukan dan meminta feedback dari mereka. Ketika pull request terbuka, kita dapat berdiskusi maupun mereview perubahan pada project tersebut. Kita juga bisa menambahkan beberapa orang yang diinginkan untuk mereview project tersebut. Nantinya ini akan tergabung di main branch.
